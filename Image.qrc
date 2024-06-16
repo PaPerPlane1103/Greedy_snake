@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/Home">
+        <file>homebackground.png</file>
+        <file>Start.jpg</file>
+        <file>bg.mp3</file>
+        <file>add.png</file>
+    </qresource>
+    <qresource prefix="/DIfChoose">
+        <file>easy_button.png</file>
+        <file>mid_button.png</file>
+        <file>diffchoose_bg.png</file>
+        <file>dif_button.png</file>
+    </qresource>
+    <qresource prefix="/game">
+        <file>game_bg.jpg</file>
+        <file>playwindow.png</file>
+        <file>Head.PNG</file>
+        <file>add.png</file>
+        <file>jian.png</file>
+    </qresource>
+</RCC>
